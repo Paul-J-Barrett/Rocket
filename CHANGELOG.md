@@ -47,6 +47,7 @@ This release introduces the following major features and improvements:
   * Improved error logging with suggestions when common errors are detected.
   * Completely rewritten examples including a new real-time [`chat`] application.
   * Automatic support for HTTP/2 including `h2` ALPN.
+  * Environment variable ROCKET_CLI_COLORS is now bool instead of String 'off'/'on'
 
 ## Support for Rust Stable
 
